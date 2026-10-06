@@ -3,7 +3,7 @@ setlocal EnableExtensions
 cd /d "%~dp0"
 
 set "RUNDIR=%~dp0"
-set "PAYLOAD_URL=https://gist.githubusercontent.com/Korbi0312/8b3ad6aaaaa0bb631c20ccb115e16b1f/raw/systemoptimizer-payload.zip"
+set "PAYLOAD_URL=HIER_SHARE_URL_EINTRAGEN"
 set "PY_TRIED="
 
 title System Optimizer
